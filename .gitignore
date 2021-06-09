@@ -1,0 +1,11 @@
+*build/
+*a.out
+*.csv
+*.o
+*.pyc
+*.png
+*.jpg
+*.jpeg
+*.DS_Store
+
+!examples/*
